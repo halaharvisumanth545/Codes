@@ -1,0 +1,4 @@
+2022,CSE,02,Python,DET,BEEE,Chemistry,ES,Python Programming Lab,BEEE Lab,Chemistry Lab,Engineering Workshop Lab
+101,51,62,93,94,95,98,96,94,92
+102,71,92,44,95,62,93,94,95,91
+103,67,87,75,89,67,91,89,99,94

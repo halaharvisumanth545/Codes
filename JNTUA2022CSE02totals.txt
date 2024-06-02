@@ -1,0 +1,79 @@
+
+101
+   Python-51-D
+   DET-62-C
+   BEEE-93-A+
+   Chemistry-94-A+
+   ES-95-A+
+   Python Programming Lab-98-A+
+   BEEE Lab-96-A+
+   Chemistry Lab-94-A+
+   Engineering Workshop Lab-92-A+
+   Total-775
+   PASS
+   SGPA:8.727272727272727
+102
+   Python-71-B
+   DET-92-A+
+   BEEE-44-E
+   Chemistry-95-A+
+   ES-62-C
+   Python Programming Lab-93-A+
+   BEEE Lab-94-A+
+   Chemistry Lab-95-A+
+   Engineering Workshop Lab-91-A+
+   Total-737
+   PASS
+   SGPA:8.727272727272727
+103
+   Python-67-C
+   DET-87-A
+   BEEE-75-B
+   Chemistry-89-A
+   ES-67-C
+   Python Programming Lab-91-A+
+   BEEE Lab-89-A
+   Chemistry Lab-99-A+
+   Engineering Workshop Lab-94-A+
+   Total-758
+   PASS
+   SGPA:8.659090909090908
+104
+   Python-75-B
+   DET-86-A
+   BEEE-76-B
+   Chemistry-55-D
+   ES-45-E
+   Python Programming Lab-89-A
+   BEEE Lab-91-A+
+   Chemistry Lab-95-A+
+   Engineering Workshop Lab-96-A+
+   Total-708
+   PASS
+   SGPA:8.295454545454545
+105
+   Python-99-A+
+   DET-99-A+
+   BEEE-99-A+
+   Chemistry-99-A+
+   ES-99-A+
+   Python Programming Lab-97-A+
+   BEEE Lab-89-A
+   Chemistry Lab-97-A+
+   Engineering Workshop Lab-98-A+
+   Total-876
+   PASS
+   SGPA:9.931818181818182
+106
+   Python-67-C
+   DET-76-B
+   BEEE-55-D
+   Chemistry-87-A
+   ES-78-B
+   Python Programming Lab-99-A+
+   BEEE Lab-96-A+
+   Chemistry Lab-95-A+
+   Engineering Workshop Lab-94-A+
+   Total-747
+   PASS
+   SGPA:8.181818181818182

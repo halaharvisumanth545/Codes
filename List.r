@@ -1,0 +1,11 @@
+empId=c(1,2,3,4)
+empName=c("SUMANTH","SAMHITHA","MANASA","MANOJ")
+noofemp=4
+empList=list(ID=empId,Names=empName,NO=noofemp)
+print(empList$Names)
+print(empList$ID)
+print(empList$NO)
+print(empList[[1]])
+print(empList[[2]])
+print(empList[[3]])
+print(empList[[2]][2])
